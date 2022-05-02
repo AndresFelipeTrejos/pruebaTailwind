@@ -48,27 +48,6 @@
     <!--
         *-- Continuar codigo aqui! --* 
     -->
-		
-	<!-- Inicio Fijador de Busqueda Por Rango De Precios -->
-	<form>
-  <fieldset disabled>
-    <legend>Precio</legend>
-    <div class="mb-3">
-      <label for="disabledTextInput" class="form-label">Precio Minimo</label>
-      <input type="text" id="disabledTextInput" class="form-control" placeholder="$00.0">
-    </div>
-    <div class="mb-3">
-      <label for="disabledTextInput" class="form-label">Precio Maximo</label>
-      <input type="text" id="disabledTextInput" class="form-control" placeholder="$00.0">
-    </div>
-    <button type="submit" class="btn btn-primary">Aplicar</button>
-  </fieldset>
-</form>
-<!-- Fin Fijador de Busqueda Por Rango De Precios -->
-
-   <!--
-        *-- Continuar codigo aqui! --* 
-    -->
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>  <!-- Liberia Bootstrap js no eliminar -->
 </body>
